@@ -1,0 +1,5 @@
+{
+  "name": "ProPRD Generator",
+  "description": "A professional-grade Product Requirements Document (PRD) generator powered by Gemini 2.5/3.0. Turns rough ideas into structured, developer-ready specifications.",
+  "requestFramePermissions": []
+}
